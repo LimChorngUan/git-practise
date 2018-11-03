@@ -1,3 +1,4 @@
 Name: Amelia
 Age: 26
 Favourite Color: Pink
+Occupation: Archer
